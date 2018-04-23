@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 100%;
+  margin: 0 auto;
+  width: 80%;
+}
+main {
+  width: 100%;
+}
+h1 {
+  font-size: 1.3em;
+} 
+h2 {
+  font-size: 1.3em;
+}
+h3 {
+  font-size: 1.17em;
+}
+p {
+  font-size: 0.75em;
+}
+h1, h2, h3, p, body {
+  color: #666;
+  font-family: sans-serif;
+  font-weight: 600;  
+}
+form {
+  margin: 0 auto;
+}
+label {
+  clear: left;
+  display: block;
+  margin: .5em 0;
+}
+input, select {
+  margin: 0 1em 3em 0;
+  width: 100%;
+}
+input {
+  padding: 1em;
+}
